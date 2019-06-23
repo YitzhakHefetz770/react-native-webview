@@ -1,7 +1,7 @@
 package com.reactnativecommunity.webview;
 
-import android.annotation.SuppressLint;
-import android.annotation.TargetApi;
+import androidx.annotation.SuppressLint;
+import androidx.annotation.TargetApi;
 import android.app.DownloadManager;
 import android.content.Context;
 import android.content.Intent;
